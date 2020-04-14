@@ -14,6 +14,8 @@ You can follow the instructions explained here: https://yunohost.org/#/theming
 
 ## Screenshots
 
+<p align="center"><img src="https://raw.githubusercontent.com/eeeple/yunohost-Nord-theme/master/img/login.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/eeeple/yunohost-Nord-theme/master/img/portal.png" /></p>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
