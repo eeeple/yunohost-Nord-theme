@@ -5,58 +5,105 @@
 ===============================================================================
 */
 
+body {
+    background: #2e3440 !important;    
+    color : #d8dee9 !important;
+}
+
+.messages.danger { background: #bf616a; }
+.messages.warning { background: #d08770; }
+.messages.success { background: #a3be8c; }
+.messages.info { background: #5e81ac; }
+
+input{   
+    background-color: #3b4252 !important;
+    color : #d8dee9 !important;
+}
+
+.login-form label:before
+{
+    background-color: #3b4252 !important;
+    color : #d8dee9 !important;
+}
+
+.btn:hover
+{
+    background-color: #a3be8c !important;
+    color : #3b4252 !important;
+}
+
+.ynh-wrapper.footer a:before {
+    color: #5e81ac !important;
+}
+
+.ynh-wrapper.footer nav {
+    border-color: #5e81ac !important;
+}
+
+a.user-container, .ynh-wrapper.footer a{   
+    color : #d8dee9 !important;
+}
+a.user-container:hover, .ynh-wrapper.footer a:hover{   
+    color : #d8dee9  !important;
+}
+
+#ynh-logout:hover
+{
+    color : #d8dee9!important;
+}
+
 .bluebg {
-    background: #3498DB!important;
+    background: #81a1c1!important;
 }
 .bluebg:hover:after,
 .bluebg:focus:after,
 .bluebg:hover:before,
 .bluebg:focus:before {
-    background: #16527A!important;
+    background: #07090C!important;
 }
 
 .purplebg {
-    background: #9B59B6!important;
+    background: #b48ead!important;
 }
 .purplebg:hover:after,
 .purplebg:focus:after,
 .purplebg:hover:before,
 .purplebg:focus:before {
-    background: #532C64!important;
+    background: #07090C!important;
 }
 
 .redbg {
-    background: #E74C3C!important;
+    background: #bf616a!important;
 }
 .redbg:hover:after,
 .redbg:focus:after,
 .redbg:hover:before,
 .redbg:focus:before {
-    background: #921E12!important;
+    background: #07090C!important;
 }
 
 .orangebg {
-    background: #F39C12!important;
+    background: #d08770!important;
 }
 .orangebg:hover:after,
 .orangebg:focus:after,
 .orangebg:hover:before,
 .orangebg:focus:before {
-    background: #7F5006!important;
+    background: #07090C!important;
 }
 
 .greenbg {
-    background: #2ECC71!important;
+    background: #a3be8c!important;
 }
 .greenbg:hover:after,
 .greenbg:focus:after,
 .greenbg:hover:before,
 .greenbg:focus:before {
-    background: #176437!important;
+    background: #07090C!important;
 }
 
 .darkbluebg {
-    background: #34495E!important;
+    background: #5e81ac!important;
 }
 .darkbluebg:hover:after,
 .darkbluebg:focus:after,
@@ -66,80 +113,81 @@
 }
 
 .lightbluebg {
-    background: #6A93D4!important;
+    background: #81a1c1!important;
 }
 .lightbluebg:hover:after,
 .lightbluebg:focus:after,
 .lightbluebg:hover:before,
 .lightbluebg:focus:before {
-    background: #2B5394!important;
+    background: #07090C!important;
 }
 
 .yellowbg {
-    background: #F1C40F!important;
+    background: #ebcb8b!important;
 }
 .yellowbg:hover:after,
 .yellowbg:focus:after,
 .yellowbg:hover:before,
 .yellowbg:focus:before {
-    background: #796307!important;
+    background: #07090C!important;
 }
 
 
 .lightpinkbg {
-    background: #F76F87!important;
+    background: #b48ead!important;
 }
 .lightpinkbg:hover:after,
 .lightpinkbg:focus:after,
 .lightpinkbg:hover:before,
 .lightpinkbg:focus:before {
-    background: #DA0C31!important;
+    background: #07090C!important;
 }
 
 /* Following colors are not used yet */
 .pinkbg {
-    background: #D66D92!important;
+    background: #b48ead!important;
 }
 .pinkbg:hover:after,
 .pinkbg:focus:after,
 .pinkbg:hover:before,
 .pinkbg:focus:before {
-    background: #992B52!important;
+    background: #07090C!important;
 }
 
 .turquoisebg {
-    background: #1ABC9C!important;
+    background: #88c0d0!important;
 }
 .turquoisebg:hover:after,
 .turquoisebg:focus:after,
 .turquoisebg:hover:before,
 .turquoisebg:focus:before {
-    background: #0B4C3F!important;
+    background: #07090C!important;
 }
 .lightyellow {
-    background: #FFC973!important;
+    background: #ebcb8b!important;
 }
 .lightyellow:hover:after,
 .lightyellow:focus:after,
 .lightyellow:hover:before,
 .lightyellow:focus:before {
-    background: #F39500!important;
+    background: #07090C!important;
 }
 .lightgreen {
-    background: #B5F36D!important;
+    background: #a3be8c!important;
 }
 .lightgreen:hover:after,
 .lightgreen:focus:after,
 .lightgreen:hover:before,
 .lightgreen:focus:before {
-    background: #77CF11!important;
+    background: #07090C!important;
 }
 .purpledarkbg {
-    background: #8E44AD!important;
+    background: #b48ead!important;
 }
 .purpledarkbg:hover:after,
 .purpledarkbg:focus:after,
 .purpledarkbg:hover:before,
 .purpledarkbg:focus:before {
-    background: #432051!important;
+    background: #07090C!important;
 }
+
